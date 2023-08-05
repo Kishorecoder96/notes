@@ -1,1 +1,38 @@
 notes will be taken here
+we have to connect our github account to laptop by using command prompt
+#git config --global user.name"your name"
+#git config --global user.email"your email"
+create a folder and name it and open it in vs code
+then new terminal type
+#git clone with link "clone address will be in github "
+then to get the git file by changing directory to the file in folder(*git file act as a bridge to our code to store in github
+to add a text file from vscode to github
+#git add "filename
+to commit change in github 
+#git commit -m "your change msg"
+to push your code from vscode to github
+#git push origin "your branch name"
+to delete a file
+#git add "filename"
+#git commit -m "your message"
+#git push origin "your branch name"
+to create a file in github and open it in vscode
+#git pull
+to change directory 
+#cd..
+to create a git file use command
+#git init
+to connect with origin
+#git remote add origin "link"
+to change your branch name 
+#git branch -M "new name"
+to list out the branches in your repo
+#git branch -a
+to change your branch in vs code
+# git checkout "new branch"
+to know difference between two branches
+# git diff "branchname"
+to merge two branch 
+#git merge "branch name"
+to create a branch in vs code 
+#git branch "branch name"

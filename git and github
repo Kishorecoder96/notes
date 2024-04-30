@@ -8,7 +8,7 @@ then new terminal type
 then to get the git file by changing directory to the file in folder(*git file act as a bridge to our code to store in github
 to add a text file from vscode to github
 #git add "filename
-to commit change in github 
+**to commit change in github** 
 #git commit -m "your change msg"
 to push your code from vscode to github
 #git push origin "your branch name"
